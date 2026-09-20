@@ -1,0 +1,15 @@
+{
+  "name": "CarTrack",
+  "short_name": "CarTrack",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101722",
+  "theme_color": "#101722",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "1536x1536",
+      "type": "image/png"
+    }
+  ]
+}
